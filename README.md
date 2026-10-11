@@ -6,14 +6,9 @@
 
 Building clean, interactive web experiences and learning new technologies one project at a time.
 
-<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/React-learning-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React (learning)" />
-<img src="https://img.shields.io/badge/Python-learning-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python (learning)" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,react,python,git,github&theme=dark" alt="Tech stack" />
 
-🎯 Open to internships &nbsp;·&nbsp; 🌱 Currently learning React & Python
+🎯 Open to internships &nbsp;·&nbsp; 🌱 Learning React & Python
 
 </div>
 
@@ -21,7 +16,7 @@ Building clean, interactive web experiences and learning new technologies one pr
 
 ### Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🍰 TastyTreats</b><br/>
