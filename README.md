@@ -6,7 +6,7 @@
 
 Building clean, interactive web experiences and learning new technologies one project at a time.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,react,python,git,github&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,react,python,git,github&theme=dark" width="340" alt="Tech stack" />
 
 🎯 Open to internships &nbsp;·&nbsp; 🌱 Learning React & Python
 
@@ -16,34 +16,16 @@ Building clean, interactive web experiences and learning new technologies one pr
 
 ### Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<b>🍰 TastyTreats</b><br/>
-Recipe book website<br/>
-<a href="https://payal-dubey.github.io/tastytreats-recipe-book/">↗ Live demo</a>
-</td>
-<td width="50%" valign="top">
-<b>🧩 CodeSpark</b><br/>
-Interactive coding awareness web app for school children<br/>
-<sub>🔒 Link coming soon</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b>⚙️ Web Page Generator</b><br/>
-Generate custom web pages in seconds<br/>
-<sub>🔒 Link coming soon</sub>
-</td>
-<td width="50%" valign="top">
-<b>👩‍💻 Portfolio</b><br/>
-My personal developer website<br/>
-<a href="https://payal-dubey.github.io/portfolio/">↗ Visit portfolio</a>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<!-- ADD A NEW PROJECT: copy one <td> block above and replace the name, line and link. -->
+<a href="https://payal-dubey.github.io/tastytreats-recipe-book/"><img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-tastytreats.svg" width="49%" alt="tastytreats" /></a>
+<img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-codespark.svg" width="49%" alt="codespark" />
+<img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-webgen.svg" width="49%" alt="webgen" />
+<a href="https://payal-dubey.github.io/portfolio/"><img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-portfolio.svg" width="49%" alt="portfolio" /></a>
+
+</div>
+
+<!-- ADD A NEW PROJECT: copy assets/card-portfolio.svg, edit its text, then add one more <img> line above. -->
 
 ---
 
