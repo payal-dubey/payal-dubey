@@ -2,15 +2,10 @@
 
 Full-stack developer in progress · B.Sc. IT student · Mumbai, India
 
-```js
-const payal = {
-  focus: "Building web projects and deploying them live",
-  learning: ["React", "Python"],
-  openTo: "Internships",
-};
-```
+I build small web projects to learn how things work. Currently open to internships.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,react,python,git,github&theme=dark" width="320" alt="Tech stack" />
+**Tech:** HTML · CSS · JavaScript · MySQL  
+**Learning:** React · Python
 
 ## Projects
 
