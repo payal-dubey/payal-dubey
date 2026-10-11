@@ -11,8 +11,8 @@ I build small web projects to learn how things work. Currently open to internshi
 
 - **[Portfolio](https://payal-dubey.github.io/portfolio/)**: my personal developer website
 - **[TastyTreats](tastytreats-recipe-book.vercel.app)**: a recipe book website
-- **CodeSpark**: interactive coding awareness web app for school children *(link coming soon)*
-- **[Web Page Generator](webpage-generator-project.vercel.app)**: generate custom web pages in seconds 
+- **[Web Page Generator](webpage-generator-project.vercel.app)**: generate custom web pages in seconds
+- **[CodeSpark](cep-website-orpin.vercel.app)**: interactive coding awareness web app for school children
 
 ## Connect
 
