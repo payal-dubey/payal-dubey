@@ -12,7 +12,7 @@ I build small web projects to learn how things work. Currently open to internshi
 - **[Portfolio](https://payal-dubey.github.io/portfolio/)**: my personal developer website
 - **[TastyTreats](https://payal-dubey.github.io/tastytreats-recipe-book/)**: a recipe book website
 - **CodeSpark**: interactive coding awareness web app for school children *(link coming soon)*
-- **Web Page Generator**: generate custom web pages in seconds *(link coming soon)*
+- **[Web Page Generator](webpage-generator-project.vercel.app)**: generate custom web pages in seconds 
 
 ## Connect
 
