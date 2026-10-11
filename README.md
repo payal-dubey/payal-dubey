@@ -1,36 +1,19 @@
-<div align="center">
+# Hi, I'm Payal 👋
 
-## Payal Dubey
+Full-stack developer in progress · B.Sc. IT student · Mumbai, India
 
-**Full-Stack Developer in Progress** · B.Sc. IT · Mumbai, India
+I build small web projects to learn how things work. Currently open to internships.
 
-Building clean, interactive web experiences and learning new technologies one project at a time.
+**Tech:** HTML · CSS · JavaScript · MySQL  
+**Learning:** React · Python
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,react,python,git,github&theme=dark" width="340" alt="Tech stack" />
+## Projects
 
-🎯 Open to internships &nbsp;·&nbsp; 🌱 Learning React & Python
+- **[Portfolio](https://payal-dubey.github.io/portfolio/)**: my personal developer website
+- **[TastyTreats](https://payal-dubey.github.io/tastytreats-recipe-book/)**: a recipe book website
+- **CodeSpark**: interactive coding awareness web app for school children *(link coming soon)*
+- **Web Page Generator**: generate custom web pages in seconds *(link coming soon)*
 
-</div>
+## Connect
 
----
-
-### Featured Projects
-
-<div align="center">
-
-<a href="https://payal-dubey.github.io/tastytreats-recipe-book/"><img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-tastytreats.svg" width="49%" alt="tastytreats" /></a>
-<img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-codespark.svg" width="49%" alt="codespark" />
-<img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-webgen.svg" width="49%" alt="webgen" />
-<a href="https://payal-dubey.github.io/portfolio/"><img src="https://raw.githubusercontent.com/payal-dubey/payal-dubey/main/assets/card-portfolio.svg" width="49%" alt="portfolio" /></a>
-
-</div>
-
-<!-- ADD A NEW PROJECT: copy assets/card-portfolio.svg, edit its text, then add one more <img> line above. -->
-
----
-
-<div align="center">
-
-[GitHub](https://github.com/payal-dubey) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/payal-dubey-10a26332a) &nbsp;·&nbsp; [Portfolio](https://payal-dubey.github.io/portfolio/)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/payal-dubey-10a26332a) · [Portfolio](https://payal-dubey.github.io/portfolio/)
