@@ -1,94 +1,59 @@
 <div align="center">
 
-# Hi, I'm Payal 👋
+## Payal Dubey
 
-**Aspiring Full-Stack Developer · B.Sc. IT Student · Mumbai**
+**Full-Stack Developer in Progress** · B.Sc. IT · Mumbai, India
 
-I build small, real projects to learn how the web works, one commit at a time.
+Building clean, interactive web experiences and learning new technologies one project at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://payal-dubey.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-dubey-10a26332a)
+<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/React-learning-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React (learning)" />
+<img src="https://img.shields.io/badge/Python-learning-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python (learning)" />
 
-</div>
-
----
-
-## 👩‍💻 About me
-
-```js
-const payal = {
-  role: "Full-Stack Developer (in the making)",
-  studying: "B.Sc. Information Technology, 3rd year",
-  location: "Mumbai, India",
-  strongAt: ["HTML", "CSS", "JavaScript"],
-  learningNow: ["React", "Python", "MySQL"],
-  currentFocus: "Building projects and deploying them live",
-  openTo: ["Internships", "Entry-level roles", "Open-source learning"],
-};
-```
-
-I'm a third-year IT student who learns best by building. I started with HTML, CSS and JavaScript, and now I'm working towards full-stack development with React, Python and databases. I'm open to internships where I can learn from a team and contribute from day one.
-
----
-
-## 🛠️ Tech I work with
-
-**Languages & Web**
-
-![HTML](https://skillicons.dev/icons?i=html,css,js,python&theme=dark)
-
-**Frameworks & Database** *(learning)*
-
-![React](https://skillicons.dev/icons?i=react,mysql&theme=dark)
-
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github&theme=dark)
-
----
-
-## 🚀 Featured projects
-
-### 🌐 [Personal Portfolio](https://payal-dubey.github.io/portfolio/)
-My personal portfolio website: who I am, what I've built, and how to reach me.
-`HTML` `CSS` `JavaScript` · [**Live site →**](https://payal-dubey.github.io/portfolio/)
-
-### 🍰 [TastyTreats Recipe Book](https://payal-dubey.github.io/tastytreats-recipe-book/)
-A recipe book website for browsing and discovering sweet treats.
-`HTML` `CSS` `JavaScript` · [**Live site →**](https://payal-dubey.github.io/tastytreats-recipe-book/)
-
-### ⚙️ Web Page Generator
-Generates web pages automatically, so building a basic page takes seconds.
-`HTML` `CSS` `JavaScript` · 🔒 *Live link coming soon*
-
-<!-- ADD YOUR NEW PROJECT HERE once it's deployed on Vercel. Copy this format:
-
-### 🔗 [Project Name](LIVE_LINK)
-One line about what it does.
-`Tech` `Tech` · [**Live site →**](LIVE_LINK)
-
--->
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=payal-dubey&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=7d7d7d&bg_color=00000000" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal-dubey&layout=compact&hide_border=true&title_color=6C63FF&text_color=7d7d7d&bg_color=00000000" alt="Top languages" />
+🎯 Open to internships &nbsp;·&nbsp; 🌱 Currently learning React & Python
 
 </div>
 
 ---
 
-## 📫 Let's connect
+### Featured Projects
 
-- 💼 LinkedIn: [payal-dubey](https://www.linkedin.com/in/payal-dubey-10a26332a)
-- 🌐 Portfolio: [payal-dubey.github.io/portfolio](https://payal-dubey.github.io/portfolio/)
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🍰 TastyTreats</b><br/>
+Recipe book website<br/>
+<a href="https://payal-dubey.github.io/tastytreats-recipe-book/">↗ Live demo</a>
+</td>
+<td width="50%" valign="top">
+<b>🧩 CodeSpark</b><br/>
+Interactive coding awareness web app for school children<br/>
+<sub>🔒 Link coming soon</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>⚙️ Web Page Generator</b><br/>
+Generate custom web pages in seconds<br/>
+<sub>🔒 Link coming soon</sub>
+</td>
+<td width="50%" valign="top">
+<b>👩‍💻 Portfolio</b><br/>
+My personal developer website<br/>
+<a href="https://payal-dubey.github.io/portfolio/">↗ Visit portfolio</a>
+</td>
+</tr>
+</table>
+
+<!-- ADD A NEW PROJECT: copy one <td> block above and replace the name, line and link. -->
+
+---
 
 <div align="center">
 
-*Always learning, always building. ✨*
+[GitHub](https://github.com/payal-dubey) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/payal-dubey-10a26332a) &nbsp;·&nbsp; [Portfolio](https://payal-dubey.github.io/portfolio/)
 
 </div>
